@@ -1,4 +1,4 @@
-Phạm Minh Khang  
-MSSV:81012001867  
-CLASS:20DPM
+NAME: Phạm Minh Khang  
+MSSV: 81012001867  
+CLASS: 20DPM
 
